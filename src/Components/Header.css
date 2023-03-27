@@ -1,0 +1,17 @@
+.Header{
+    color: white;
+    background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+    display: flex;
+    align-items:center;
+    padding: 20px;
+    height: 65px;
+}
+.Header--image {
+    height: 100%;
+    margin-right: 6px;
+}
+
+.Header--title {
+    font-size: 20px;
+    margin-right: auto;
+}
